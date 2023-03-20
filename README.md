@@ -1,4 +1,4 @@
-![GitHub Streak](https://raw.githubusercontent.com/indigoblake/indigoblake/main/images/header.png)
+![GitHub Streak](https://raw.githubusercontent.com/churikoff/churikoff/main/images/header.png)
 
 ## Hello World! 👋
 I'm a software engineer who has a keen interest in all things related to development.
@@ -25,12 +25,12 @@ Aside from having extensive knowledge of recognized technical standards, I am co
 ## Stats
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indigoblake" style="width:100%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=churikoff" style="width:100%">
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=indigoblake&include_all_commits=true" style="width:100%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=churikoff&include_all_commits=true" style="width:100%">
 
 </div>
