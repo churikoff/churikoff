@@ -25,12 +25,12 @@ Aside from having extensive knowledge of recognized technical standards, I am co
 ## Stats
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=churikoff" style="width:100%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=churikoff&theme=transparent" style="width:100%">
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=churikoff&include_all_commits=true" style="width:100%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=churikoff&include_all_commits=true&theme=transparent&hide_border=true&fire=f57f3b&border=aaaaaa&stroke=aaaaaa&ring=aaaaaa&dates=aaaaaa&sideNums=aaaaaa&sideLabels=aaaaaa&currStreakLabel=aaaaaa&currStreakNum=aaaaaa" style="width:100%">
 
 </div>
