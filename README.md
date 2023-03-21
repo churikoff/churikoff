@@ -29,7 +29,7 @@ Aside from having extensive knowledge of recognized technical standards, I am co
 ## Stats
 <div align="center">
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=churikoff&bg_color=none&color=aaaaaa&title_color=aaaaaa&line=aaaaaa&point=F05454&area_color=aaaaaa&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=churikoff&bg_color=none&color=aaaaaa&title_color=aaaaaa&line=aaaaaa&point=aaaaaa&area_color=aaaaaa&hide_border=true" width="100%"/>
 
 </div>
 
