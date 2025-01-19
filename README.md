@@ -1,11 +1,6 @@
 ![GitHub Streak](https://raw.githubusercontent.com/churikoff/churikoff/main/images/header.png)
 
-## Hello World! 👋
-I'm a software engineer who has a keen interest in all things related to development.
-
-I got my first job as a developer in 2011 and spent some time building CMS-based websites. Today my area of expertise is a development of enterprise web applications and SaaS products.
-
-Aside from having extensive knowledge of recognized technical standards, I am conversant with modern software development practices.
+I'm likely building some cool stuff right now.
 
 ## Main tools
 ![](https://img.shields.io/badge/Backend-csharp-informational?style=for-the-badge&logo=csharp&logoColor=ffffff&color=aaaaaa)
