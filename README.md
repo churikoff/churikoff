@@ -23,21 +23,3 @@ Aside from having extensive knowledge of recognized technical standards, I am co
 
 ![](https://img.shields.io/badge/DevOps-Azure-informational?style=for-the-badge&logo=azuredevops&logoColor=ffffff&color=aaaaaa)
 ![](https://img.shields.io/badge/DevOps-Terraform-informational?style=for-the-badge&logo=terraform&logoColor=ffffff&color=aaaaaa)
-
-
-
-## Stats
-<div align="center">
-
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=churikoff&bg_color=none&color=aaaaaa&title_color=aaaaaa&line=aaaaaa&point=aaaaaa&area_color=aaaaaa&hide_border=true" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=churikoff&include_all_commits=true&theme=transparent&hide_border=true&fire=F05454&border=aaaaaa&stroke=aaaaaa&ring=aaaaaa&dates=aaaaaa&sideNums=aaaaaa&sideLabels=aaaaaa&currStreakLabel=aaaaaa&currStreakNum=aaaaaa" style="width:100%">
-
-</div>
-
-
-
